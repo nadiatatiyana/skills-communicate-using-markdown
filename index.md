@@ -8,3 +8,6 @@
 ```
 <p><strong>Bolded Paragrah Text</strong></p>
 ```
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
